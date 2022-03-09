@@ -3,4 +3,4 @@ My name is JohnHenry Ward and I am a recent Computer Science graduate looking fo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHenry-Ward&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JohnHenry-Ward}.JohnHenry-Ward)
