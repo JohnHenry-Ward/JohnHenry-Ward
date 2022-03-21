@@ -16,5 +16,5 @@ I am also practicing my Computer Science fundamentals and keeping my algorithm a
 
 ## 📫 How to reach me
 - Email (preferred): [johnhenry514@gmail.com](mailto:johnhenry514@gmail.com)
-- Website: [johnhenryward.me](johnhenryward.me)
+- Website: [johnhenryward.me](http://johnhenryward.me)
 - LinkedIn: [johnhenry-ward](https://www.linkedin.com/in/johnhenry-ward/)
