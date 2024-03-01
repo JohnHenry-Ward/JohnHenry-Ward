@@ -1,22 +1,13 @@
 # :wave: Hey there! I'm @JohnHenry-Ward
-I am a recent Computer Science grad looking for my first opprotunity in the software industry. 
-I am most interested in Full Stack Development, as I enjoy the design of the front end and
+I am a Software Engineer with about 2 years of industry expereince. I graduated from Western Washington University in December 2021 with a degree in Computer Science and a minor in Math. I am most interested in Full Stack Development, as I enjoy the design of the front end and
 the technicality of the back end, but am open to any and all Software Engineer/Developer positions.
-You can learn more about me, my skills, and some projects I've
-worked on by checking out my portfolio website [here](http://johnhenryward.me).
 
 ## 🌱 What I'm currently working on
-In preperation for the 2022 FIFA World Cup, I am builing a Full Stack Website where a user can create groups, 
-invite others, and then draft teams to root for once the games begin. Players get points for their teams winning (or tieing), 
-and the farther one of their teams go, the more points they get (similar to March Madness). As my current interested align with Full Stack Web Development, 
-I am building this website on the MERN (MongoDB, Express, React, Node) stack, using third-party API's, using Google Sign in with OAuth, and also practicing my 
-client side and server side JavaScript skills. I am also considering learning another web development for this project tool like Next.js or SaSS.
+I'm currently looking for my next career opprotunity in the Software Engineering industry. My profressional expereience is more focused on backend work, but I enjoy working with the full stack. I'm currently working on my next personal project...stay tuned.
 
-I am also practicing my Computer Science fundamentals and keeping my algorithm and data structure skills sharp by doing coding practice problems daily on leetcode.
-
-I recently accepted an offer to become a Full Time Software Engineer at AKASA.
+I am also practicing my Computer Science fundamentals and keeping my algorithm and data structure skills sharp by doing coding practice on whiteboards and online.
 
 ## 📫 How to reach me
 - Email (preferred): [johnhenry514@gmail.com](mailto:johnhenry514@gmail.com)
-- Website: [johnhenryward.me](http://johnhenryward.me)
+- Website: [johnhenryward.me]() (coming soon)
 - LinkedIn: [johnhenry-ward](https://www.linkedin.com/in/johnhenry-ward/)
